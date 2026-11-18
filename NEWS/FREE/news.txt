@@ -1,0 +1,15 @@
+# Main menu announcement (FREE). Lines starting with # are ignored.
+# Write "show: no" to hide the announcement.
+show: yes
+title: TEST ANNOUNCEMENT (FREE)
+subtitle: REMOTE NEWS TEST
+image: image.jpg
+---
+This is a <b>placeholder</b> announcement downloaded from the news server for the <b>FREE</b> version.
+
+If you can read this, the remote news system works.
+Lines next to each other stay in the same paragraph.
+
+<color=#FF78B8><b>BULLET TEST</b></color>
+- First test bullet
+- Second test bullet
