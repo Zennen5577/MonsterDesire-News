@@ -14,7 +14,7 @@ image: image1.jpg
 === 2 ===
 # Bottom card, first row (Patreon)
 subtitle: PATREON EXCLUSIVE
-title: VERSION 0.3 FOR PATREON ONLY
+title: VERSION 0.3 FOR PATREON ONLY!
 image: image2.jpg
 ---
 <b>Two New Creature Types!</b>
