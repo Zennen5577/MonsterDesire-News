@@ -22,5 +22,15 @@ image: image2.jpg
 - Ghost Girls are now available
 - New side quest: solve the mystery of the crashed helicopter and the bird
 - Find the downed pilot and help out
-- New balance changes
-- Bug fixes
+
+=== 3 ===
+# Bottom card, second row (Patreon)
+image: image3.jpg
+---
+<b>New improvements!</b>
+-The map now opens up piece by piece as you explore (you can turn this off if you prefer)
+-New Vesper missions
+-The Gentleman Rabbit can now be found and chased
+-Butterflies and dragonflies fill the world
+-Crows now live in some areas
+-Bug fixes
