@@ -1,0 +1,26 @@
+itch: https://multi-hawk-studio.itch.io/monster-desire
+patreon: https://www.patreon.com/cw/multihawk
+
+=== 1 ===
+# Top card (free version, itch.io)
+subtitle: FREE UPDATE
+title: VERSION 0.2 IS HERE
+image: image1.jpg
+---
+- The Goblin Sisters side quest is now available
+- The Ancient Vampire side quest is now available
+- The talking, slightly crazy Oracle Mushroom is now available
+
+=== 2 ===
+# Bottom card, first row (Patreon)
+subtitle: PATREON EXCLUSIVE
+title: VERSION 0.3 FOR PATREON ONLY
+image: image2.jpg
+---
+<b>Two New Creature Types!</b>
+- Reptile Girls are now available
+- Ghost Girls are now available
+- New side quest: solve the mystery of the crashed helicopter and the bird
+- Find the downed pilot and help out
+- New balance changes
+- Bug fixes
