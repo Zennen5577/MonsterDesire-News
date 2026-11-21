@@ -25,9 +25,10 @@ image: image2.jpg
 
 === 3 ===
 # Bottom card, second row (Patreon)
+subtitle: ALSO IN 0.3
+title: NEW IMPROVEMENTS!
 image: image3.jpg
 ---
-<b>New improvements!</b>
 - The map now opens up piece by piece as you explore (you can turn this off if you prefer)
 - New Vesper missions
 - The Gentleman Rabbit can now be found and chased
