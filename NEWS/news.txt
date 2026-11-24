@@ -21,7 +21,6 @@ image: image2.jpg
 - Reptile Girls are now available
 - Ghost Girls are now available
 - New side quest: solve the mystery of the crashed helicopter and the bird
-- Find the downed pilot and help out
 - The Gentleman Rabbit can now be found and chased
 - Butterflies and dragonflies fill the world
 - Crows now live in some areas
@@ -33,8 +32,8 @@ title: BIG GAMEPLAY CHANGES!
 image: image3.jpg
 ---
 - New main quest system with clearer guidance
-- Monsters now live in their own territories (check the new Territories tab on the map)
+- Monsters now live in their own territories
 - New special arrows for each monster group
 - New Training section at base
 - New Patreon setting: change the rarity of all creatures on the map
-- New Patreon setting: turn off all special arrows with one switch
+- New Patreon setting: turn off all special arrows
