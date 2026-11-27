@@ -50,6 +50,5 @@ subtitle: Support us and unlock all of these:
 - Unlimited Ability Bar | Your ability bar never runs out
 - Marshall Voss | Play as Marshall Voss
 - Discord Role | A special role on our Discord
-- Full Map | Reveal the whole island map
-- Monster Rarity | Choose which rarity fills the map
-- Green Arrows Only | Turn off all special arrows
+- Reveal Map | Reveal the whole island map
+- Choose Monster Rarity | Choose which rarity fills the map
