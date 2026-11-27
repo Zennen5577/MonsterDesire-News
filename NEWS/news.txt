@@ -37,3 +37,19 @@ image: image3.jpg
 - New Training section at base
 - New Patreon setting: change the rarity of all creatures on the map
 - New Patreon setting: turn off all special arrows
+
+=== perks ===
+title: PATREON PERKS
+subtitle: Support us and unlock all of these:
+---
+- Early Access | New updates come first
+- Full Gallery Access | Unlock the entire gallery
+- 2x Monster Fluid | Double rewards from every monster
+- Unique Images | Every image you earn is a new one
+- No Injuries | Turn injuries off completely
+- Unlimited Ability Bar | Your ability bar never runs out
+- Marshall Voss | Play as Marshall Voss
+- Discord Role | A special role on our Discord
+- Full Map | Reveal the whole island map
+- Monster Rarity | Choose which rarity fills the map
+- Green Arrows Only | Turn off all special arrows
